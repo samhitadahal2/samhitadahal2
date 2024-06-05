@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samhitadahal
+- 👋 Hi, I’m @samhitadahal2
 - 👀 I’m interested in web design!
 - 🌱 I’m currently learning multiple coding languages (HTML, java, CSS)
 - 📫 How to reach me samhitadahal2@gmail.com
